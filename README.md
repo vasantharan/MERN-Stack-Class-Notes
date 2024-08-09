@@ -96,6 +96,7 @@ This file sets up the Express server and connects to MongoDB:
 
 ### 4. **MongoDB**
    - **Introduction to MongoDB:** Explore NoSQL databases and MongoDB basics.
+     - [MongoDB Shell Commands](https://www.mongodb.com/docs/mongodb-shell/run-commands/)
      - [MongoDB Documentation](https://docs.mongodb.com/)
      - [MongoDB University](https://university.mongodb.com/)
 
