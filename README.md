@@ -68,6 +68,8 @@ This file sets up the Express server and connects to MongoDB:
 
 ## Roadmap
 
+![Roadmap image](https://github.com/vasantharan/MERN-Stack-Class-Notes/blob/main/MERN%20Roadmap.png)
+
 ### 1. **HTML, CSS, and JavaScript**
    - **HTML:** Structure your web pages with HyperText Markup Language.
      - [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
